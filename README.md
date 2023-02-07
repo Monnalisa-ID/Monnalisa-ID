@@ -1,6 +1,7 @@
 <h1 align="center">Hi , I'm Rizqi <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&width=435&lines=Software+Developer;Blockchain+Enthusiast" alt="Typing SVG" /></a></p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Source+Code+Pro&pause=1000&width=435&lines=Software+Developer;Blockchain+Enthusiast" alt="Typing SVG" /></a>
+</p>
 
 <!--
 **Monnalisa-ID/Monnalisa-ID** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
