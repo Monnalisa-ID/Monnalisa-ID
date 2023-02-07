@@ -45,4 +45,4 @@ Here are some ideas to get you started:
  <p align="center">
 <img style="height:100%;width:49%;max-width: 100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monnalisa-id&layout=compact&theme=gotham&langs_count=8"/>
 </p>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
